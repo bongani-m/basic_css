@@ -1,0 +1,49 @@
+body{
+	background: #374548;
+	font-family: 'Bree Serif', serif;
+	color: #dbe3e2;
+}
+
+.img_container {
+	margin: auto;
+	margin-top: 8%;
+
+}
+
+.img_container img:hover {
+	opacity: .7;
+	transition:  .5s;
+    -webkit-transition: .5s;
+}
+
+.text {
+	text-align: center;
+}
+
+.test {
+	background: #53676C;
+	margin-bottom: 2%;
+	text-align: center;
+}
+
+.test p {
+	color: #374548;
+}
+
+.test:hover {
+	background: #dbe3e2;
+	transition:  .7s;
+    -webkit-transition: .7s;
+}
+
+.test1 {
+	margin-top: 3%;
+}
+
+.left {
+	float: left;
+}
+
+.right {
+	float: right;
+}
